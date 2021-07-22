@@ -8,4 +8,5 @@
 ```
 <axesHelper />
 <Orbit />
+<Box />
 ```
